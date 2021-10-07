@@ -1,17 +1,18 @@
 {
   "name": "random-number",
   "version": "1.0.0",
-  "description": "",
+  "description": "Random number generator API.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "prettier": "prettier --write \"**/*.js\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KevinZMa/random-number.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kevin",
   "bugs": {
     "url": "https://github.com/KevinZMa/random-number/issues"
   },
