@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
     try {
         res.json({
             status: 200,
-            number: random()
+            number: random(1, 1000)
         })
     } catch (err) {
         console.error(err);
