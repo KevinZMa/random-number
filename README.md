@@ -8,7 +8,7 @@ Random API [deployed](https://rand-num.vercel.app/) on Vercel. (starter project 
 
 Returns a random number from `min` to `max` (inclusive).
 
-##### Query Parameters
+#### Query Parameters
 
 - `min`
   - **Type:** `number`
@@ -17,7 +17,7 @@ Returns a random number from `min` to `max` (inclusive).
   - **Type:** `number`
   - **Default:** `1000`
 
-##### Response
+#### Response
 
 `200`
 
